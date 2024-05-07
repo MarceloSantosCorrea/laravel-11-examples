@@ -12,7 +12,8 @@
     "dedoc/scramble": "^0.9.0",
     "laravel/framework": "^11.0",
     "laravel/tinker": "^2.9",
-    "laravel/ui": "^4.5"
+    "laravel/ui": "^4.5",
+    "owen-it/laravel-auditing": "^13.6"
   },
   "require-dev": {
     "fakerphp/faker": "^1.23",
